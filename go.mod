@@ -1,3 +1,3 @@
 module github.com/zhaoyanbo1992/test
 
-go 1.17
+go 1.14
